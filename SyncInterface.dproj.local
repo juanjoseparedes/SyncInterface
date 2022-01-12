@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/24 21:58:38.000.838,=C:\Users\juanj\OneDrive\Documentos\Embarcadero\Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2017/12/24 21:58:39.000.266,=C:\Users\juanj\OneDrive\Documentos\Embarcadero\Studio\Projects\ItemDetail1.pas</Transaction>
+    <Transaction>2017/12/30 15:23:17.000.920,=C:\Users\juanj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/14 15:37:02.000.780,=C:\Users\juanj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/14 15:38:18.000.958,Z:\AriesSync\GrupoSolid\SyncInterface\frmSync.pas=C:\Users\juanj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/14 15:38:18.000.958,Z:\AriesSync\GrupoSolid\SyncInterface\frmSync.dfm=C:\Users\juanj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/14 15:38:33.000.023,Z:\AriesSync\GrupoSolid\SyncInterface\Project1.dproj=C:\Users\juanj\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/14 15:38:48.000.639,Z:\AriesSync\GrupoSolid\SyncInterface\SyncInterface.dproj=Z:\AriesSync\GrupoSolid\SyncInterface\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
